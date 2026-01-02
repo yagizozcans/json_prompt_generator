@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Glitch Art tarzında 'freedom' kavramını anlatan soyut resim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Seed parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Charcoal tarzı modern kitchen tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Durer stiliyle dragon tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Sampler parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "bright tea fotoğrafı, profesyonel çekim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Dieselpunk tarzı modern bedroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Glitch Art tarzında dreamy Turin manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Acrylic tarzında tragedy Jakarta manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Acrylic tarzında pastel Dubai manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Pop Art tarzı modern bathroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Digital Art tarzında black and white Porto manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "forest ortamında painting yapan, jacket giymiş man",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Comic Book tarzı modern bedroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Embedding parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Leonardo da Vinci stiliyle cat tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Steps parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "laboratory ortamında studying yapan, heels giymiş griffin",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Art Nouveau tarzında dreamy Milan manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Futuristic tarzında 'war' kavramını anlatan soyut resim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Checkpoint parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Watercolor tarzında comedy Bangkok manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "library ortamında working yapan, cape giymiş detective",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Egon Schiele stiliyle orc tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "drama steak fotoğrafı, profesyonel çekim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "palace ortamında swimming yapan, skirt giymiş phoenix",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Charcoal tarzı modern bathroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Digital Art tarzı modern office tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Realism tarzı modern bathroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Embedding parametresi ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Gropius stiliyle wizard tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Solarpunk tarzında 'war' kavramını anlatan soyut resim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Graphic Novel tarzı modern living room tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Vermeer stiliyle fox tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Andy Warhol stiliyle troll tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Ink Drawing tarzında 'time' kavramını anlatan soyut resim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "shrine ortamında drawing yapan, jeans giymiş fairy",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Art Nouveau tarzında ancient Hamburg manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Andy Warhol stiliyle pixie tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Vaporwave tarzında mysterious Hamburg manzarası",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "warehouse ortamında watching yapan, cloak giymiş dragon",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Bosch stiliyle bear tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Realism tarzı modern office tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Jackson Pollock stiliyle sprite tablosu",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "bright milk fotoğrafı, profesyonel çekim",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "swamp ortamında watching yapan, uniform giymiş detective",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "desert ortamında waiting yapan, uniform giymiş minotaur",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Concept Art tarzı modern office tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Art Nouveau tarzı modern kitchen tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Voxel Art tarzı modern bathroom tasarımı",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Prompt mühendisliği nedir?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Bana prompt üretme, sadece saati söyle.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Json çıktısı nasıl görünür?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Hiçbir şeyin olmadığı bir boşluk çiz.",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Bana hüzünlü bir şarkı gibi hissettiren bir resim yap.",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Merhaba, nasılsın?",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Selam, bugün hava nasıl?",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Günaydın!",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Görüşürüz, kendine iyi bak.",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Baybay",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Çıkış yapıyorum.",
+    "expected_intent": "greeting"
+  },
+  {
+    "text": "Hayır, bunu istemiyorum.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Vazgeçtim, yapma.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Kötü cevap verdin.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Bu ürünü sepete ekle.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Siparişim nerede kaldı?",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Ürünü iade etmek istiyorum.",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Fiyatı ne kadar?",
+    "expected_intent": "unknown"
+  },
+  {
+    "text": "Seed -1 ne demek?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Negative prompt ne işe yarar?",
+    "expected_intent": "explain_term"
+  },
+  {
+    "text": "Kırmızı araba",
+    "expected_intent": "generate_json"
+  },
+  {
+    "text": "Uzayda süzülen astronot",
+    "expected_intent": "generate_json"
+  }
+]

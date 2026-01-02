@@ -1,0 +1,9 @@
+streamlit
+pandas
+chromadb
+openai
+google-genai
+openpyxl
+python-dotenv
+sentence-transformers
+scikit-learn
